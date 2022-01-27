@@ -1,7 +1,8 @@
 # better-cloudflare-ip
 原作者: https://github.com/badafans （已删库）
-查找适合自己当前网络环境的优选Cloudflare Anycast IP
 
+查找适合自己当前网络环境的优选Cloudflare Anycast IP
+**因为原作者的api已经失效，项目暂时不可使用，请等待我重写一个API**
 ## 用户数据安全声明
 
 1.此版本需要上传用户部分非敏感数据到服务器（Anycast IP、峰值速度、用户AS自治域、用户META城市归属）
