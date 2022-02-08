@@ -1,5 +1,7 @@
 # better-cloudflare-ip
-原作者: https://github.com/badafans （已删库）
+原作者: https://github.com/badafans ~（已删库）~
+
+原作者版本已更新：https://github.com/badafans/better-cloudflare-ip
 
 查找适合自己当前网络环境的优选Cloudflare Anycast IP
 **因为原作者的api已经失效，项目暂时不可使用，请等待我重写一个API**
